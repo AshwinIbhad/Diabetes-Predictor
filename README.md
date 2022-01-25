@@ -19,7 +19,11 @@
 
 ### Azure Services Used
   #### Resource Group
+        - A container that holds related resources for an Azure solution. 
+        - The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
   #### Web App
+        - App Service Web Apps lets you quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform. 
+        - Meet rigorous performance, scalability, security and compliance requirements while using a fully managed platform to perform infrastructure maintenance
 
 ### Project URL - https://diabetespredictor101.azurewebsites.net/
 
