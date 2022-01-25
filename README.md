@@ -1,5 +1,14 @@
 # Diabetes Predictor
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.8.5](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+### Screenshots
+![8](https://user-images.githubusercontent.com/40145411/150901821-8e4e43c7-4d77-464b-b554-eda49a057621.jpg)
+![1](https://user-images.githubusercontent.com/40145411/150901940-a7857f0d-084e-4876-aafe-7283fe7e1283.jpg)
+![3](https://user-images.githubusercontent.com/40145411/150901967-e89b17f5-4ae7-437e-b406-e3aa58d79065.jpg)
+![2](https://user-images.githubusercontent.com/40145411/150902000-9354bc3a-cd85-4114-a93f-c4c5bcc90e74.jpg)
+![4](https://user-images.githubusercontent.com/40145411/150902028-0becb71c-bd11-47c7-b0e6-ef25c48d81db.jpg)
+![5](https://user-images.githubusercontent.com/40145411/150902043-1b4c02e1-55d1-4f39-abdc-5196b966f6d3.jpg)
+![6](https://user-images.githubusercontent.com/40145411/150902051-9c76973c-512e-4a3f-a81b-19f7a07af875.jpg)
+![7](https://user-images.githubusercontent.com/40145411/150902060-cb043c6d-d53c-4aa8-999d-813d812efb89.jpg)
+
 
 ### Description
   - Early detection of the disease lowers medical expenditures as well as the likelihood of people developing more severe health problems.
