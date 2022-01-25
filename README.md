@@ -27,7 +27,7 @@
 
 ### Project URL - https://diabetespredictor101.azurewebsites.net/
 
-### Video URL - https://diabetespredictor101.azurewebsites.net/
+### Video URL - https://youtu.be/VYOq60zejLw
 
 
  
